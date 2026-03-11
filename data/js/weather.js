@@ -1,5 +1,5 @@
 
-// const token = "";
+const DOMAIN = window.location.origin;
 
 const background = document.querySelector('.background');
 
@@ -56,7 +56,7 @@ searchButton.addEventListener('click', () => {
     }
 
     city.innerHTML = 'Loading...';
-    fetch(`http://localhost:8000/api?ville=${ville}`)
+    fetch(`${DOMAIN}/api?ville=${ville}`)
         .then(response => response.json())
         .then(data => {
 
