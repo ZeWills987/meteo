@@ -77,16 +77,14 @@
                 </div>
                 <div class="vector-horiz"></div>
                 <div class="bottom">
-                    <div class="row_hours" id="row-hours">
-                    </div>
-                    <div class="row_days" id="days">
-                    </div>
+                    <!-- <div class="row_hours" id="row-hours"></div> -->
+                    <div class="row_days" id="days"></div>
                 </div>
             </article>
         </main>
         <footer>
             <ul>
-                <li>By <a href="https://william-tchang.fr">Tchang William</a></li>
+                <li>By <a href="https://portfolio.william-tchang.fr">Tchang William</a></li>
                 <li id="update"></li>
             </ul>
         </footer>
