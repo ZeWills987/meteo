@@ -152,11 +152,11 @@ Ce système permet :
 
 ## 🧑‍💻 Auteur
 
-    Tchang William
+Tchang William
 
-    [🌐Portfolio](portfolio.william-tchang.fr)
+[🌐Portfolio](portfolio.william-tchang.fr)
 
-    [📧william.tchang.pro@gmail.com](mail:william.tchang.pro@gmail.com)
+[📧william.tchang.pro@gmail.com](mail:william.tchang.pro@gmail.com)
 
 ## 📄 Licence
 
